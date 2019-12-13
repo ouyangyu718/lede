@@ -195,4 +195,3 @@ jobs:
         with:
           name: OpenWrt firmware
           path: ./artifact/
-© 2019 GitHub, Inc.
